@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2867384
+color:
+  saturation: 0.814674
+  lightness: 0.7041518
+  brandStrength: 0.7691645
+  brandColors:
+    - '#F2F2F2'
+    - '#D8A376'
+    - '#380E3C'
+    - '#BD6E41'
+    - '#AC163B'
+  rhythmicContrast: 0.6827957
+name: Je Suis Darcy
