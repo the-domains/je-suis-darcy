@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.2867384
 color:
-  saturation: 0.3637993
+  saturation: 0.8996416
   brandStrength: 1
-  lightness: 0.7041518
+  lightness: 0.2885305
   brandColors:
     - '#F2F2F2'
     - '#D8A376'
     - '#380E3C'
     - '#BD6E41'
     - '#AC163B'
-  rhythmicContrast: 0.218638
+  rhythmicContrast: 0.9928315
 layout_spectrum: 1
 name: Je Suis Darcy
